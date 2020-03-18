@@ -1,0 +1,12 @@
+name: Shiny_Aplication
+title: Shiny_Aplication
+username:
+account: dclilianadimas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1962447
+bundleId: 2894753
+url: https://dclilianadimas.shinyapps.io/Shiny_Aplication/
+when: 1584548631.30715
+asMultiple: FALSE
+asStatic: FALSE
